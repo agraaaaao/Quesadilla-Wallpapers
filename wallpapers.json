@@ -1,235 +1,132 @@
 {
 	"wallpapers": [
 		{
-			"name": "Paint 8",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%208.jpg?token=AMVSUV4WHW2FBJ7SZ53R3ES5GUYO2",
-			"dimensions": "1800 x 1258",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Architecture 2",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Architecture 2.jpg",
-			"dimensions": "3264 x 4896",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 9",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 9.jpg",
-			"dimensions": "2880 x 1800",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Architecture 1",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Architecture 1.jpg",
-			"dimensions": "2800 x 1867",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 10",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 10.jpg",
-			"dimensions": "3955 x 5933",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Pattern 2",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Pattern 2.jpg",
-			"dimensions": "2000 x 1334",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Pattern 3",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Pattern 3.jpg",
-			"dimensions": "4096 x 2265",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 11",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 11.jpg",
-			"dimensions": "6000 x 4000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 13",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 13.jpg",
-			"dimensions": "4000 x 6000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Pattern 1",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Pattern 1.jpg",
-			"dimensions": "2000 x 1500",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 12",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 12.jpg",
-			"dimensions": "4000 x 6000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 16",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 16.jpg",
-			"dimensions": "4896 x 3264",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 17",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 17.jpg",
-			"dimensions": "4896 x 3264",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 15",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 15.jpg",
-			"dimensions": "4896 x 3264",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 14",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 14.jpg",
-			"dimensions": "4000 x 2667",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 19",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 19.jpg",
-			"dimensions": "2800 x 2278",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Abstract 1",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Abstract 1.png",
-			"dimensions": "1125 x 2250",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 18",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 18.jpg",
-			"dimensions": "5300 x 3476",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 20",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 20.jpg",
-			"dimensions": "4252 x 3145",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 21",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 21.jpg",
-			"dimensions": "1856 x 1161",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
 			"name": "Paint 1",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 1.jpg",
-			"dimensions": "1856 x 1161",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%201.jpg?token=AMVSUV74BRCHQ4L6VPW72VK5GWHBE",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
 		},
-		{
-			"name": "Nature 3",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 3.jpg",
-			"dimensions": "2600 x 3640",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Nature 2",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 2.jpg",
-			"dimensions": "3000 x 2000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
+		
 		{
 			"name": "Paint 2",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 2.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Nature 1",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 1.jpg",
-			"dimensions": "4336 x 2692",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%202.jpg?token=AMVSUV63D5ERX23LQDMMC3S5GWHCI",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
 		},
 		{
 			"name": "Paint 3",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 3.jpg",
-			"dimensions": "1920 x 1080",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 7",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 7.jpg",
-			"dimensions": "5184 x 3456",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Nature 5",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 5.jpg",
-			"dimensions": "3000 x 2000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Nature 4",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 4.jpg",
-			"dimensions": "1333 x 2000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Paint 6",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 6.jpg",
-			"dimensions": "1856 x 1161",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%203.jpg?token=AMVSUV23XQYHGHWC5J6PB4K5GWHDS",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
 		},
 		{
 			"name": "Paint 4",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 4.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
-		},
-		{
-			"name": "Nature 6",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Nature 6.jpg",
-			"dimensions": "3000 x 2000",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%204.jpg?token=AMVSUV7W5BADQ3ZATYQCNES5GWHIE",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
 		},
 		{
 			"name": "Paint 5",
-			"author": "agraaaaao",
-			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint 5.jpg",
-			"dimensions": "3085 x 4656",
-			"copyright": "Copyright 2019 Anmol GR. All rights reserved."
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%205.jpg?token=AMVSUV6FM463QDIGSWJ7MDC5GWHJE",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
 		}
+		{
+			"name": "Paint 6",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%206.jpg?token=AMVSUVY2MUPQNLQZGPUWEFC5GWHPA",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 7",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%207.jpg?token=AMVSUV2RVF6G72KPR7GJCWC5GWHP6",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 8",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%208.jpg?token=AMVSUV7E6AFHNUQIB3YTCK25GWHRE",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		
+		{
+			"name": "Paint 9",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%209.jpg?token=AMVSUV6QJF57OEUIHWULE4S5GWHSK",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 10",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2010.jpg?token=AMVSUV7QYVXTPCTDEANRJNK5GWHT4",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 11",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2011.jpg?token=AMVSUV5WWSH3XIRAZEU7ACS5GWHVS",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 12",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2012.jpg?token=AMVSUV4VJFSSGYUMEC2BXBC5GWHW6",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 13",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2013.jpg?token=AMVSUVZCTZQYZKWVDUAUGHS5GWHY4",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 14",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2014.jpg?token=AMVSUV3DZACG7FGIXYF3V325GWH3G",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 15",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2015.jpg?token=AMVSUVYXMLJQH5GH7WGLFDC5GWH4O",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 16",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2016.jpg?token=AMVSUV53FLN6KCKE3VXTLH25GWH5S",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 17",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2017.jpg?token=AMVSUV6UYKIYLEJVS4UGACC5GWH6Q",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 18",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2018.jpg?token=AMVSUV54BMIKIXGGVEV2VLC5GWH7Y",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 19",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2019.jpg?token=AMVSUVYGICUX4JKZ5RBAHQS5GWIBE",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 20",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2020.jpg?token=AMVSUV4CZZJP65262R3UAMK5GWICS",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Paint 21",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/agraaaaao/quesadilla_wallpapers/master/Paint%2021.jpg?token=AMVSUV7N65AAEQ3P6XRANPK5GWID6",
+			"copyright": "Copyright © 2019 Anmol GR. All rights reserved."
+		},
 	]
 }
