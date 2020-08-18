@@ -1,5 +1,4 @@
-{
-	"wallpapers": [
+[
 		{
 			"name": "Quesadilla 1",
 			"artist": "Anmol G R",
@@ -30,5 +29,6 @@
 			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%205.jpg",
 			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
 		},
-		]
- }
+	
+]
+
