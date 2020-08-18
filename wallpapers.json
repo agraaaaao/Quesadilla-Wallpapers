@@ -1,16 +1,34 @@
 [
-      {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://drive.google.com/file/d/1Jz-jzfCHuULbqrdFu8-7DsYxscIi-csa/view?usp=sharing",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	},
-      {
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
+		{
+			"name": "Quesadilla 1",
+			"artist": "Anmol G R",
+			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%201.jpg",
+			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Quesadilla 2",
+			"artist": "Anmol G R",
+			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%202.jpg",
+			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Quesadilla 3",
+			"artist": "Anmol G R",
+			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%203.jpg",
+			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Quesadilla 4",
+			"artist": "Anmol G R",
+			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%204.jpg",
+			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
+		},
+		{
+			"name": "Quesadilla 5",
+			"artist": "Anmol G R",
+			"url": "https://raw.githubusercontent.com/agraaaaao/Quesadilla-Wallpapers/master/Quesadilla%205.jpg",
+			"copyright": "Copyright © 2020 Anmol GR. All rights reserved."
+		},
+	
 ]
+
